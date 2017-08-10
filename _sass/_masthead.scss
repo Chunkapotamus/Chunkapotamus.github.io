@@ -23,3 +23,21 @@
     opacity: .5;
   }
 }
+
+.navList{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  float:right;
+}
+
+.navList li{
+  float:left;
+  padding-left:1rem;
+  padding-right:1rem;
+}
+
+.navList li a{
+  display:block;
+}

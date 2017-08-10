@@ -2,10 +2,10 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Chunkapotamus
+tagline:             Dev blog
 url:                 http://getpoole.com
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
